@@ -1,5 +1,5 @@
 
-# Understanding CSRF
+# Understanding CSRF (Cross-site Request Forgery)
 
 The Express team's [csrf](https://github.com/pillarjs/csrf) and [csurf](https://github.com/expressjs/csurf) modules
 frequently have issues popping up concerned about our usage of cryptographic functions.
